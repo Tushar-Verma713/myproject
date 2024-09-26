@@ -1,0 +1,19 @@
+header h1{
+    text-align: center;
+    color:red
+}
+.ha{
+    color: yellow;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.hq{
+    color:red
+}
+*{
+    background-color: black;
+}
+.image1
+{
+    text-align: center;
+}
